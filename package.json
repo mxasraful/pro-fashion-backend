@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "pro-fashion-fontend",
   "version": "0.1.0",
   "private": true,
@@ -38,25 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-  "name": "pro-fashion-backend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "node index.js",
-    "start": "nodemon index"
-  },
-  "author": "Asraful",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1",
-    "mongodb": "^4.0.0",
-    "nodemon": "^2.0.12"
->>>>>>> f691a53 (ok)
   }
 }
